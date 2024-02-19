@@ -13,6 +13,7 @@
 		92FBFE102B49F0FE004073DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92FBFE0E2B49F0FE004073DE /* Main.storyboard */; };
 		92FBFE122B49F100004073DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92FBFE112B49F100004073DE /* Assets.xcassets */; };
 		92FBFE152B49F100004073DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92FBFE132B49F100004073DE /* LaunchScreen.storyboard */; };
+		92FBFE1D2B4A0CC0004073DE /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92FBFE1C2B4A0CC0004073DE /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		92FBFE112B49F100004073DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92FBFE142B49F100004073DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92FBFE162B49F100004073DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92FBFE1C2B4A0CC0004073DE /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				92FBFE112B49F100004073DE /* Assets.xcassets */,
 				92FBFE132B49F100004073DE /* LaunchScreen.storyboard */,
 				92FBFE162B49F100004073DE /* Info.plist */,
+				92FBFE1C2B4A0CC0004073DE /* TableViewController.swift */,
 			);
 			path = Project4;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				92FBFE0D2B49F0FE004073DE /* ViewController.swift in Sources */,
 				92FBFE092B49F0FE004073DE /* AppDelegate.swift in Sources */,
 				92FBFE0B2B49F0FE004073DE /* SceneDelegate.swift in Sources */,
+				92FBFE1D2B4A0CC0004073DE /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
